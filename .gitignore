@@ -2,3 +2,5 @@
 *.csv
 *.zip
 *.yaml
+
+!data/Most-Recent-Cohorts-Field-of-Study-Sample.csv
